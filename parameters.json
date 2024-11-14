@@ -1,0 +1,5 @@
+{
+    "EVENT_HUB_NAMESPACE": "tll-test-eventhub-ns2.servicebus.windows.net",
+    "EVENT_HUB_CONN_STR": "https://tll-test-eventhub-ns2.servicebus.windows.net:443/;SharedAccessKeyName=RootManageSharedAccessKey;Shared",
+    "EVENT_HUB_NAME": "tll-test-eventhub"
+}
